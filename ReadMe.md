@@ -11,6 +11,7 @@ Below is a **step-by-step, branched AI/ML learning roadmap**—from absolute beg
 - **Learn Python**  
   - [freeCodeCamp Python for Beginners (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw)  
   - [Google's Python Class](https://developers.google.com/edu/python)
+  - [Shradha Khapra from Apna College(I prefer this) ](https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvov) [google link for the same] (https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
 - **Math for ML**  
   - [3Blue1Brown "Essence of Linear Algebra" (YouTube)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-fJURNmz3wDZrQ_DQ)  
   - [Khan Academy: Probability & Statistics](https://www.khanacademy.org/math/statistics-probability)
