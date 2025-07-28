@@ -138,4 +138,4 @@ E --> F[Portfolio, GitHub, Demo]
 
 **If you follow this structured roadmap—branching out when required—you’ll truly move from zero to expert and be job-ready, all using quality free resources.**
 
-# copyright BY ISHAN TRIPATHI
+# @ copyright BY ISHAN TRIPATHI ** credits to all the creators mentioned above
